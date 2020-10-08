@@ -23,3 +23,8 @@ About: Developer <br/>
 
 Name: [Ke Xin](https://github.com/pockii) <br />
 Place: Singapore <br /> 
+
+
+Name: [Murilo Lodovico](https://github.com/mlodovico) <br />
+Place: Brazil <br /> 
+About: Full Stack Developer <br />
